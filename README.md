@@ -1,5 +1,5 @@
 # file Upload Service
-<img width="400" alt="Screenshot 2022-10-30 at 1 53 19 PM" src="https://user-images.githubusercontent.com/54072018/198869277-5c53c453-084c-43b6-b164-78b85509dfce.png">
+<img width="366" alt="Screenshot 2022-10-30 at 1 55 10 PM" src="https://user-images.githubusercontent.com/54072018/198869335-31fec39e-02fd-4c3b-b795-812a423926c4.png">
 
 # -------Technology Used-----
 # Node.js, Express.js ,Multer .
